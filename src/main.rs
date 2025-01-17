@@ -1,3 +1,14 @@
+//* first program in rust */
+
+// fn main() {
+//     println!("Hello, world!");
+// }
+
+
+//* Numbers in rust */
+
 fn main() {
-    println!("Hello, world!");
-}
+    let x: i32 = 34;
+    println!("{}", x);
+  }
+
